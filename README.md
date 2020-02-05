@@ -8,7 +8,8 @@ Considering that in 2014 social users posted an average of 1.8 billion photos to
 ### Business problem : 
 What should National Geographic do to increase engagement on its Instagram page?
 
-### Dataset : Data scraped from the Instagram page of NatGeo
+### Dataset : 
+Data scraped from the Instagram page of NatGeo
 
 ### Toolkit : 
 Google Vision Cloud, Python
